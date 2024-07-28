@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Atri</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **MERN Technology**
 
