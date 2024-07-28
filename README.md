@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhruvatri001@gmail.com**
 
-- ⚡ Fun fact **Humour with Algorithms**
+- ⚡ **Humour with Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
